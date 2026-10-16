@@ -5,7 +5,7 @@ Web developer iz Splita. Izrađujem web stranice za lokalne obrte i male tvrtke 
 ### 🎓 Certifikati
 - [freeCodeCamp: Responsive Web Design](https://freecodecamp.org/certification/fcc-1ab0af4c-77fc-4e1f-81ab-540055fd31c3/responsive-web-design-v9) (srpanj 2026.)
 - - [freeCodeCamp: JavaScript](https://freecodecamp.org/certification/fcc-1ab0af4c-77fc-4e1f-81ab-540055fd31c3/javascript-v9) (rujan 2026.)
-[freeCodeCamp: Front-End Development Libraries Certification]([https://www.freecodecamp.org/certification/fcc-1ab0af4c-77fc-4e1f-81ab-540055fd31c3/front-end-development-libraries-v9) (listopad 2026.)
+---[freeCodeCamp: Front-End Development Libraries Certification]([https://www.freecodecamp.org/certification/fcc-1ab0af4c-77fc-4e1f-81ab-540055fd31c3/front-end-development-libraries-v9) (listopad 2026.)
 
 
 
